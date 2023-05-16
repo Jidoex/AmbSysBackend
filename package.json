@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Jidoex/AmbSysBackend/issues"
   },
-  "homepage": "https://github.com/Jidoex/AmbSysBackend#readme"
+  "homepage": "https://github.com/Jidoex/AmbSysBackend#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
